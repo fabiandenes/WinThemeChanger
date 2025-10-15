@@ -1,0 +1,4 @@
+D:\Projects\WinThemeChanger\obj\Debug\net9.0-windows\WinThemeChanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WinThemeChanger\obj\Debug\net9.0-windows\WinThemeChanger.AssemblyInfoInputs.cache
+D:\Projects\WinThemeChanger\obj\Debug\net9.0-windows\WinThemeChanger.AssemblyInfo.cs
+D:\Projects\WinThemeChanger\obj\Debug\net9.0-windows\WinThemeChanger.csproj.CoreCompileInputs.cache

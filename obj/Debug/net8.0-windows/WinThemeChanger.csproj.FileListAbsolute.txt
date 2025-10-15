@@ -1,0 +1,14 @@
+D:\Projects\WinThemeChanger\obj\Debug\net8.0-windows\WinThemeChanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WinThemeChanger\obj\Debug\net8.0-windows\WinThemeChanger.AssemblyInfoInputs.cache
+D:\Projects\WinThemeChanger\obj\Debug\net8.0-windows\WinThemeChanger.AssemblyInfo.cs
+D:\Projects\WinThemeChanger\obj\Debug\net8.0-windows\WinThemeChanger.csproj.CoreCompileInputs.cache
+D:\Projects\WinThemeChanger\bin\Debug\net8.0-windows\WinThemeChanger.exe
+D:\Projects\WinThemeChanger\bin\Debug\net8.0-windows\WinThemeChanger.deps.json
+D:\Projects\WinThemeChanger\bin\Debug\net8.0-windows\WinThemeChanger.runtimeconfig.json
+D:\Projects\WinThemeChanger\bin\Debug\net8.0-windows\WinThemeChanger.dll
+D:\Projects\WinThemeChanger\bin\Debug\net8.0-windows\WinThemeChanger.pdb
+D:\Projects\WinThemeChanger\obj\Debug\net8.0-windows\WinThemeChanger.dll
+D:\Projects\WinThemeChanger\obj\Debug\net8.0-windows\refint\WinThemeChanger.dll
+D:\Projects\WinThemeChanger\obj\Debug\net8.0-windows\WinThemeChanger.pdb
+D:\Projects\WinThemeChanger\obj\Debug\net8.0-windows\WinThemeChanger.genruntimeconfig.cache
+D:\Projects\WinThemeChanger\obj\Debug\net8.0-windows\ref\WinThemeChanger.dll
